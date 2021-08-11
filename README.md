@@ -1,1 +1,1 @@
-👋 Hi, I’m @guijinSON
+👋 Hi, I’m guijinSON
