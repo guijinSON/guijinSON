@@ -1,9 +1,5 @@
 __👋 Hi, I’m GUIJIN SON.__ 
----  
-__Affiliation__
-- Yonsei University Underwood International College Economics Major
-- LXPER Inc. 
-
+---   
 __Reseach Interests__
 - Natural Language Processing
 - Multi-Modal AI  
