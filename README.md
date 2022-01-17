@@ -3,6 +3,7 @@ __👋 Hi, I’m GUIJIN SON.__
 __Reseach Interests__
 - Natural Language Processing
 - Multi-Modal AI  
+- Financial AI
 
 __Publications__
 - [Neural Networks for Delta Hedging](https://arxiv.org/abs/2112.10084)
