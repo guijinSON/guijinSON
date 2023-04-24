@@ -13,3 +13,4 @@ __Publications__
 - [Neural Networks for Delta Hedging](https://arxiv.org/abs/2112.10084)
 - [SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding](https://doi.org/10.3745/PKIPS.y2021m11a.1116)
 - [Zero-Shot Readability Assessment of Korean ESG Reports using BERT](https://doi.org/10.3745/PKIPS.y2022m05a.456)
+- [Removing Non-Stationary Knowledge From Pre-Trained Language Models for Entity-Level Sentiment Classification in Finance](https://arxiv.org/abs/2301.03136)
