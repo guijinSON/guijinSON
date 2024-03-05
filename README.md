@@ -1,15 +1,7 @@
 __👋 Hi, I’m GUIJIN SON.__   
 ---   
-__Reseach Interests__
-- Natural Language Processing
-- Financial AI
+Greetings! My name is Guijin Son, and I am an undergraduate student at Yonsei University.
 
-__Working Experiences__ 
-- Data Analyst at [FuturePlay](https://futureplay.co)
-- NLP Engineer(Internship) at [LXPER.inc](https://www.lxper.com)
-- Financial NLP Researcher(Internship) at [QraftTechnologies](https://www.qraftec.com)
+My academic and research interests span a broad spectrum; however, my recent focus has been dedicated to exploring the intricacies of Large Language Models (LLMs). Despite the extensive resources allocated for training LLMs, there remains a significant gap in our understanding of their capabilities and limitations. In light of this, my recent research includes (1) analyzing the behavior of LLMs ([Multi-Task Inference](https://arxiv.org/abs/2402.11597)) and (2) investigating their performance across non-English languages (especially Korean) ([HAE-RAE Bench](https://arxiv.org/abs/2309.02706), [KMMLU](https://arxiv.org/abs/2402.11548)).
 
-__Publications__
-- [Removing Non-Stationary Knowledge From Pre-Trained Language Models for Entity-Level Sentiment Classification in Finance](https://arxiv.org/abs/2301.03136)
-- [Beyond Classification: Financial Reasoning in State-of-the-Art Language Models](https://arxiv.org/abs/2305.01505)
-- [HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models](https://arxiv.org/abs/2309.02706)
+At the moment, I am actively seeking new research opportunities! Please feel free to reach out :)
